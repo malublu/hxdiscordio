@@ -1,0 +1,11 @@
+{
+	"name": "hxdiscordio",
+	"classPath": "src",
+	"url" : "https://github.com/malublu/hxdiscordio/",
+	"license": "MIT",
+	"tags": ["js", "node", "discordio", "discord.io"],
+	"description": "Externs for discord.io",
+	"version": "0.0.1",
+	"releasenote": "Initial commit",
+	"contributors": ["malublu"]
+}
